@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Antoine and I love codes.
+
+I started with Html & CSS, then Php & MySQL, and now discovering the ⚡ power of Javascript (Node.js & Vue.js). 
+
+💬 You can find me at: 
+
+- [LinkedIn](https://www.linkedin.com/in/antoinebollinger)
+- [My CV online](https://antoinebollinger.github.io/)
+- [E-mail](mailto:antoine.bollinger@gmail.com)
+
 <!--
 **antoinebollinger/antoinebollinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
