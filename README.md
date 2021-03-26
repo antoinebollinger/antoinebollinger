@@ -7,7 +7,7 @@ I started with Html & CSS, then Php & MySQL, and now discovering the ⚡ power �
 💬 You can find me at: 
 
 - [LinkedIn](https://www.linkedin.com/in/antoinebollinger)
-- [My CV online](https://antoinebollinger.github.io/)
+- [My Resume online](https://antoinebollinger.github.io/)
 - [E-mail](mailto:antoine.bollinger@gmail.com)
 
 <!--
