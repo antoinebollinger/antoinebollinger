@@ -1,8 +1,8 @@
-### Hi there 👋
+### Bonjour 👋
 
 I'm Antoine and I love codes.
 
-I started with Html & CSS, then Php & MySQL, and now discovering the ⚡ power of Javascript (Node.js & Vue.js). 
+I started with Html & CSS, then Php & MySQL, and now discovering the ⚡ power ⚡ of Javascript (Node.js & Vue.js). 
 
 💬 You can find me at: 
 
