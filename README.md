@@ -2,7 +2,9 @@
 
 I'm Antoine and I love codes.
 
-I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power ⚡ of Javascript (Node.js & Vue.js). 
+I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power ⚡ of Javascript (Node.js & Vue.js).
+
+🌱 I’m currently learning React.
 
 💬 You can find me at: 
 
