@@ -1,4 +1,4 @@
-### Bonjour 👋
+### Hello / Salut / Oi 👋
 
 I'm Antoine and I love codes.
 
@@ -6,7 +6,7 @@ I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power �
 
 🌱 I’m currently learning React.
 
-💬 You can find me at: 
+📫 You can find me at: 
 
 - [LinkedIn](https://www.linkedin.com/in/antoinebollinger)
 - [My Resume online](https://antoinebollinger.github.io/)
