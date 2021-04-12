@@ -1,4 +1,4 @@
-### Hello / Salut / Oi 👋
+## Hello / Salut / Oi 👋
 
 I'm Antoine, I 💙 codes and languages.
 
@@ -6,19 +6,19 @@ I'm Antoine, I 💙 codes and languages.
 
 I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/css-3.svg">, then <img height="25" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡power⚡ of <img height="25" src="https://cdn.svgporn.com/logos/javascript.svg">.
 
-## Stacks I'm familiar with (some I'm not so bad at):
+# Stacks I'm familiar with (some I'm not so bad at):
 
-### Databases
+## Databases
 
 <code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
 
-### Back-end
+## Back-end
 
 <code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>
 
-### Front-end 
+## Front-end 
 
 <code><img height="30" src="https://cdn.svgporn.com/logos/vue.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/react.svg"></code>
@@ -28,13 +28,13 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 <code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/react.svg"></code>
 
-## 📫 You can find me at: 
+# 📫 You can find me at: 
 
 - [LinkedIn](https://www.linkedin.com/in/antoinebollinger)
 - [My Resume online](https://antoinebollinger.github.io/)
 - [E-mail](mailto:antoine.bollinger@gmail.com)
 - <a href="https://discord.gg/AntoineBo" title="Discord"><img height="20" src="https://cdn.svgporn.com/logos/discord.svg"></a>
 
-## 🏆 Stats
+# 🏆 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&theme=dark&show_icons=true&include_all_commits=true&layout=compact) ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&theme=dark&show_icons=true)
