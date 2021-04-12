@@ -2,7 +2,7 @@
 
 I'm Antoine and I love codes.
 
-![](https://visitor-badge.laobi.icu/badge?page_id=antoinebollinger.antoinebollinger)
+![](https://visitor-badge.laobi.icu/badge?page_id=antoinebollinger.antoinebollinger) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Follow&style=social)](https://github.com/antoinebollinger)
 
 I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power ⚡ of Javascript (Node.js, React, Vue.js). I’m currently learning React.
 
