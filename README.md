@@ -10,7 +10,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ### Databases
 
-<img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"> <img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"> <img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg">
 
 ### Back-end
 
