@@ -1,6 +1,6 @@
 ### Hello / Salut / Oi 👋
 
-I'm Antoine and I love codes.
+I'm Antoine, I 💙 codes and languages.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=antoinebollinger.antoinebollinger) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Follow&style=social)](https://github.com/antoinebollinger)
 
