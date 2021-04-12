@@ -2,11 +2,9 @@
 
 I'm Antoine and I love codes.
 
-I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power ⚡ of Javascript (Node.js, React, Vue.js).
+I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power ⚡ of Javascript (Node.js, React, Vue.js). I’m currently learning React.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&theme=tokyonight)
-
-🌱 I’m currently learning React.
 
 📫 You can find me at: 
 
