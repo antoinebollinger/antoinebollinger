@@ -10,22 +10,30 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ### Databases
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code><code><img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
 
 ### Back-end
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code><code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>
 
 ### Front-end 
 
-<img height="30" src="https://cdn.svgporn.com/logos/vue.svg">  <img height="30" src="https://cdn.svgporn.com/logos/react.svg">  <img height="30" src="https://cdn.svgporn.com/logos/html-5.svg">  <img height="30" src="https://cdn.svgporn.com/logos/css-3.svg">  <img height="30" src="https://cdn.svgporn.com/logos/sass.svg">
-  <img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg">  <img height="30" src="https://cdn.svgporn.com/logos/react.svg">
+<code><img height="30" src="https://cdn.svgporn.com/logos/vue.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/react.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/sass.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/react.svg"></code>
 
 ## 📫 You can find me at: 
 
 - [LinkedIn](https://www.linkedin.com/in/antoinebollinger)
 - [My Resume online](https://antoinebollinger.github.io/)
 - [E-mail](mailto:antoine.bollinger@gmail.com)
+- <code><img height="30" src="https://cdn.svgporn.com/logos/discord.svg"></code>
 
 ## 🏆 Stats
 
