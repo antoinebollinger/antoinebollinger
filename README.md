@@ -36,11 +36,10 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ## 💻 Environment
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/windows.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/vcs.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/microsoft-windows.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/postman.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/wamp.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/git.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/github-icon.svg"></code>
 
 
 ## 🏆 Stats
