@@ -12,7 +12,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 - [My Resume online](https://antoinebollinger.github.io/)
 - [E-mail](mailto:antoine.bollinger@gmail.com)
 
-## Stacks I'm familiar with (some I'm not so bad at):
+## 👉 Stacks I'm familiar with (some I'm not so bad at):
 
 ### Databases
 
@@ -33,6 +33,15 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 <code><img height="30" src="https://cdn.svgporn.com/logos/sass.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/react.svg"></code>
+
+## 💻 Environment
+
+<code><img height="30" src="https://cdn.svgporn.com/logos/windows.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/vcs.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/postman.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/wamp.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/git.svg"></code>
+
 
 ## 🏆 Stats
 
