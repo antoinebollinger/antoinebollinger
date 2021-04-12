@@ -10,11 +10,11 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ### Databases
 
-<img height="30" src="https://cdn.svgporn.com/logos/mysql.svg">  <img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg">
+<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code><code><img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
 
 ### Back-end
 
-<img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">  <img height="30" src="https://cdn.svgporn.com/logos/express.svg">
+<code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code><code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>
 
 ### Front-end 
 
