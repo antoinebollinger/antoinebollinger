@@ -33,7 +33,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 - [LinkedIn](https://www.linkedin.com/in/antoinebollinger)
 - [My Resume online](https://antoinebollinger.github.io/)
 - [E-mail](mailto:antoine.bollinger@gmail.com)
-- <code><img height="30" src="https://cdn.svgporn.com/logos/discord.svg"></code>
+- <a href="https://discord.gg/AntoineBo" title="Discord"><img height="20" src="https://cdn.svgporn.com/logos/discord.svg"></a>
 
 ## 🏆 Stats
 
