@@ -4,7 +4,7 @@ I'm Antoine, I 💙 codes and languages.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=antoinebollinger.antoinebollinger) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Follow&style=social)](https://github.com/antoinebollinger)
 
-I started with <img height="30" src="https://cdn.svgporn.com/logos/html.svg"> & <img height="30" src="https://cdn.svgporn.com/logos/css.svg">, then <img height="30" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="30" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡ power ⚡ of <img height="30" src="https://cdn.svgporn.com/logos/javascript.svg">. I’m currently learning React.
+I started with <img height="20" src="https://cdn.svgporn.com/logos/html5.svg"> & <img height="20" src="https://cdn.svgporn.com/logos/css3.svg">, then <img height="20" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="20" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡ power ⚡ of <img height="20" src="https://cdn.svgporn.com/logos/javascript.svg">.
 
 ## Stacks I'm familiar with (some I'm not so bad at):
 
@@ -20,7 +20,13 @@ I started with <img height="30" src="https://cdn.svgporn.com/logos/html.svg"> & 
 
 ### Front-end 
 
-<img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/vue.svg">
+Currently learning <img height="30" src="https://cdn.svgporn.com/logos/react.svg">.
+<img height="30" src="https://cdn.svgporn.com/logos/html5.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/css3.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/sass.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+Currently learning <img height="30" src="https://cdn.svgporn.com/logos/react.svg">.
 
 
 ## 📫 You can find me at: 
