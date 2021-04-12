@@ -10,6 +10,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 # 📫 You can find me at: 
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></code>](https://www.linkedin.com/in/antoinebollinger)
+
 [<code><img height="30" src="https://cdn.svgporn.com/logos/google-gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
 
 
