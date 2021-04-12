@@ -10,17 +10,16 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ### Databases
 
-<img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"> <img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/mysql.svg">  <img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg">
 
 ### Back-end
 
-<img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> <img height="30" src="https://cdn.svgporn.com/logos/express.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">  <img height="30" src="https://cdn.svgporn.com/logos/express.svg">
 
 ### Front-end 
 
-<img height="30" src="https://cdn.svgporn.com/logos/vue.svg"> <img height="30" src="https://cdn.svgporn.com/logos/react.svg"> <img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"> <img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"> <img height="30" src="https://cdn.svgporn.com/logos/sass.svg">
- <img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"> <img height="30" src="https://cdn.svgporn.com/logos/react.svg">
-
+<img height="30" src="https://cdn.svgporn.com/logos/vue.svg">  <img height="30" src="https://cdn.svgporn.com/logos/react.svg">  <img height="30" src="https://cdn.svgporn.com/logos/html-5.svg">  <img height="30" src="https://cdn.svgporn.com/logos/css-3.svg">  <img height="30" src="https://cdn.svgporn.com/logos/sass.svg">
+  <img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg">  <img height="30" src="https://cdn.svgporn.com/logos/react.svg">
 
 ## 📫 You can find me at: 
 
@@ -31,18 +30,3 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 ## 🏆 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&theme=dark&show_icons=true&include_all_commits=true&layout=compact) ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&theme=dark&show_icons=true)
-
-<!--
-**antoinebollinger/antoinebollinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
