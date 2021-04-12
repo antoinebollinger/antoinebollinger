@@ -4,6 +4,7 @@ I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
 I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/css-3.svg">, then <img height="25" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡power⚡ of <img height="25" src="https://cdn.svgporn.com/logos/javascript.svg">.
 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=antoinebollinger.antoinebollinger&label=Visitors&logo=Github) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Followers&logo=Github)](https://github.com/antoinebollinger)
 
 ## 📫 You can find me at: 
@@ -15,8 +16,8 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ### Databases
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>
+[<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>](https://www.mysql.com)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>](https://www.mongodb.com/)
 
 ### Back-end
 
