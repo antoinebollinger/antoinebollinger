@@ -23,6 +23,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 ### Back-end
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>](https://nodejs.org)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/npm-icon.svg"></code>](https://www.npmjs.com/)
 [<code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>](http://expressjs.com)
 
 ### Front-end 
