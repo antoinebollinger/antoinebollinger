@@ -6,6 +6,8 @@ I'm Antoine, I 💙 codes and languages.
 
 I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/css-3.svg">, then <img height="25" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡power⚡ of <img height="25" src="https://cdn.svgporn.com/logos/javascript.svg">.
 
+https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5
+
 ## 📫 You can find me at: 
 
 - [LinkedIn](https://www.linkedin.com/in/antoinebollinger)
@@ -44,4 +46,4 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ## 🏆 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&theme=dark&show_icons=true&include_all_commits=true&layout=compact) ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&theme=dark&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true) ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&hide_title=true&hide_border=true&show_icons=true)
