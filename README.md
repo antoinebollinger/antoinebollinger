@@ -13,9 +13,9 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/google-gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
 
 
-# Stacks I'm familiar with:
+# 🎓 Stacks I'm familiar with:
 
-👉 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
