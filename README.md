@@ -1,4 +1,4 @@
-## Hello / Salut / Oi <img height="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
+# Hello / Salut / Oi <img height="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
@@ -7,12 +7,14 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=antoinebollinger.antoinebollinger&label=Visitors&logo=Github) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Followers&logo=Github)](https://github.com/antoinebollinger)
 
-## 📫 You can find me at: 
+
+# 📫 You can find me at: 
 
 [<code><img alt="Antoine Bollinger | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></code>](https://www.linkedin.com/in/antoinebollinger)
 [<code><img alt="Antoine Bollinger | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
 
-## 👉 Stacks I'm familiar with (some I'm not so bad at):
+
+# 👉 Stacks I'm familiar with (some I'm not so bad at):
 
 ### Databases
 
@@ -33,7 +35,8 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/sass.svg"></code>](https://sass-lang.com/)
 [<code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>](https://getbootstrap.com/)
 
-## 💻 Environment
+
+# 💻 Environment
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/microsoft-windows.svg"></code>](https://www.microsoft.com/fr-fr/windows)
 [<code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>](https://code.visualstudio.com/)
@@ -41,6 +44,6 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/github-icon.svg"></code>](https://github.com/)
 
 
-## 🏆 Stats
+# 🏆 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true) ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&hide_title=true&hide_border=true&show_icons=true)
