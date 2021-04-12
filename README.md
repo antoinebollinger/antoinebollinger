@@ -16,6 +16,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 # 👇 Stacks I'm familiar with:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Php](https://img.shields.io/badge/-Php-blue?style=flat-square&logo=php)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
