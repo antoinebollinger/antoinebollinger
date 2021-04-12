@@ -29,7 +29,6 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-
 ### Databases
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>](https://www.mysql.com) 
