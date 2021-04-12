@@ -6,6 +6,10 @@ I'm Antoine, I 💙 codes and languages.
 
 I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power ⚡ of Javascript (Node.js, React, Vue.js). I’m currently learning React.
 
+## Stacks I'm not so bad at:
+
+<code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>
+
 ## 📫 You can find me at: 
 
 - [LinkedIn](https://www.linkedin.com/in/antoinebollinger)
