@@ -4,17 +4,16 @@ I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
 I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/css-3.svg">, then <img height="25" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡power⚡ of <img height="25" src="https://cdn.svgporn.com/logos/javascript.svg">.
 
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=antoinebollinger.antoinebollinger&label=Visitors&logo=Github) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Followers&logo=Github)](https://github.com/antoinebollinger)
 
 
 # 📫 You can find me at: 
 
-[<code><img alt="Antoine Bollinger | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></code>](https://www.linkedin.com/in/antoinebollinger)
-[<code><img alt="Antoine Bollinger | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></code>](https://www.linkedin.com/in/antoinebollinger)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/google-gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
 
 
-# 👉 Stacks I'm familiar with (some I'm not so bad at):
+# 👇 Stacks I'm familiar with:
 
 ### Databases
 
