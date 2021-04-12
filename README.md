@@ -4,11 +4,24 @@ I'm Antoine, I 💙 codes and languages.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=antoinebollinger.antoinebollinger) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Follow&style=social)](https://github.com/antoinebollinger)
 
-I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power ⚡ of Javascript (Node.js, React, Vue.js). I’m currently learning React.
+I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power ⚡ of <img height="30" src="https://cdn.svgporn.com/logos/javascript.svg"> (Node.js, React, Vue.js). I’m currently learning React.
 
-## Stacks I'm not so bad at:
+## Stacks I'm familiar with (some I'm not so bad at):
 
+### Databases
+
+<img height="30" src="https://cdn.svgporn.com/logos/mysql.svg">
+<img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg.svg">
+
+### Back-end
+
+<img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
 <img height="30" src="https://cdn.svgporn.com/logos/express.svg">
+
+### Front-end 
+
+<img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+
 
 ## 📫 You can find me at: 
 
