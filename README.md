@@ -8,8 +8,8 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ## 📫 You can find me at: 
 
-[<img align="left" alt="Antoine Bollinger | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/antoinebollinger)
-[<img align="left" alt="Antoine Bollinger | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:antoine.bollinger@gmail.com)
+[<img alt="Antoine Bollinger | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/antoinebollinger)
+[<img alt="Antoine Bollinger | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:antoine.bollinger@gmail.com)
 
 ## 👉 Stacks I'm familiar with (some I'm not so bad at):
 
