@@ -15,19 +15,27 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 # 👇 Stacks I'm familiar with:
 
+[<code><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"></code>]()
+[<code><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"></code>]()
+[<code><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"></code>]()
+[<code><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"></code>]()
+[<code><img src="https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue"></code>]()
+[<code><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code>]()
+[<code><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></code>]()
+[<code><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"></code>]()
+[<code><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"></code>]()
+
 ### Databases
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>](https://www.mysql.com) 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>](https://www.mongodb.com)
 
-###
 ### Back-end
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>](https://nodejs.org)
 [<code><img height="30" src="https://cdn.svgporn.com/logos/npm-icon.svg"></code>](https://www.npmjs.com/)
 [<code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>](http://expressjs.com)
 
-###
 ### Front-end 
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/vue.svg"></code>](https://vuejs.org/)
