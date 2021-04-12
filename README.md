@@ -17,29 +17,28 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 ### Databases
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>](https://www.mysql.com)
-[<code><img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>](https://www.mongodb.com/)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/mongodb.svg"></code>](https://www.mongodb.com)
 
 ### Back-end
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>
+[<code><img height="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>](https://nodejs.org)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>](http://expressjs.com)
 
 ### Front-end 
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/vue.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/react.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/sass.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/react.svg"></code>
+[<code><img height="30" src="https://cdn.svgporn.com/logos/vue.svg"></code>](https://vuejs.org/)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/react.svg"></code>](https://reactjs.org/)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/sass.svg"></code>](https://sass-lang.com/)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>](https://getbootstrap.com/)
 
 ## 💻 Environment
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/microsoft-windows.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/postman.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/github-icon.svg"></code>
+[<code><img height="30" src="https://cdn.svgporn.com/logos/microsoft-windows.svg"></code>](https://www.microsoft.com/fr-fr/windows)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>](https://code.visualstudio.com/)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/postman.svg"></code>](https://www.postman.com/)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/github-icon.svg"></code>](https://github.com/)
 
 
 ## 🏆 Stats
