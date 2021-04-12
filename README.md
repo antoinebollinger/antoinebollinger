@@ -8,7 +8,7 @@ I started with HTML & CSS, then PHP & MySQL, and now discovering the ⚡ power �
 
 ## Stacks I'm not so bad at:
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></code>
+<img height="30" src="https://cdn.svgporn.com/logos/express.svg">
 
 ## 📫 You can find me at: 
 
