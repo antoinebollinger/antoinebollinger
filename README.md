@@ -8,9 +8,8 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ## 📫 You can find me at: 
 
-[<img align="left" alt="Antoine Bollinger" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Antoine Bollinger | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Antoine Bollinger | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="Antoine Bollinger | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/antoinebollinger)
+[<img align="left" alt="Antoine Bollinger | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:antoine.bollinger@gmail.com)
 
 - [LinkedIn](https://www.linkedin.com/in/antoinebollinger)
 - [My Resume online](https://antoinebollinger.github.io/)
