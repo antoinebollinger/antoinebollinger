@@ -13,9 +13,9 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/google-gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
 
 
-# 👇 Stacks I'm familiar with:
+# Stacks I'm familiar with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+👉 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
@@ -29,6 +29,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
+<!--
 ### Databases
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>](https://www.mysql.com) 
@@ -48,7 +49,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code><img height="30" src="https://cdn.svgporn.com/logos/sass.svg"></code>](https://sass-lang.com/)
 [<code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>](https://getbootstrap.com/)
-
+-->
 
 # 💻 Environment
 
