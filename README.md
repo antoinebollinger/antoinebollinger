@@ -25,8 +25,8 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 ## 📫 You can find me at: 
 
-[<code><img height="30" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></code>](https://www.linkedin.com/in/antoinebollinger)
-[<code><img height="30" src="https://cdn.svgporn.com/logos/google-gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail)](https://www.linkedin.com/in/antoinebollinger)
 
 ## 🏆 Stats
 
@@ -35,6 +35,11 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true) ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&hide_title=true&hide_border=true&show_icons=true)
 
 <!--
+### You can find me at:
+
+[<code><img height="30" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></code>](https://www.linkedin.com/in/antoinebollinger)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/google-gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
+
 ### Databases
 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>](https://www.mysql.com) 
