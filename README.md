@@ -22,7 +22,7 @@ I started with [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-s
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![CSS3](https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass)](https://sass-lang.com)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)](https://heroku.com)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku)](https://heroku.com)
 
 ## 📫 You can find me at: 
 
