@@ -13,8 +13,9 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 # 🎓 Stacks I'm familiar with:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)](https://www.php.net)
+[![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)](https://www.php.net) | 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com)
+[![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)](https://www.postman.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com)
 [![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)](https://www.mysql.com) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org)
