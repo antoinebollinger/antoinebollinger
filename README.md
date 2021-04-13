@@ -19,6 +19,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com)
 [![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)](https://www.mysql.com) 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org)
+[![npm](https://img.shields.io/npm/v/npm.svg?logo=npm)](https://www.npmjs.com)
 [![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)](https://reactjs.org)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js)](https://vuejs.org)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
