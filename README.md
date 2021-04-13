@@ -13,18 +13,18 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 # 🎓 Stacks I'm familiar with:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![CSS3](https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+[![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)](https://www.php.net)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)](https://www.mysql.com) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org)
+[![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)](https://reactjs.org)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js)](https://vuejs.org)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass)](https://sass-lang.com)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)](https://heroku.com)
 
 <!--
 ### Databases
