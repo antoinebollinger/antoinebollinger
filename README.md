@@ -27,7 +27,7 @@ I started with [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&l
 ## 📫 You can find me at: 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](https://www.linkedin.com/in/antoinebollinger)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
 
 ## 🏆 Stats
 
