@@ -2,32 +2,32 @@
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
-I started with [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) & [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS), then [![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)](https://www.php.net) & [![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)](https://www.mysql.com) animated with [![JQuery](https://img.shields.io/badge/-JQuery-red?style=flat-square&logo=jquery)](https://jquery.com), and now discovering the ⚡power⚡ of [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript).
+I started with [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) & [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS), then [![Php](https://img.shields.io/badge/-Php-lightgrey?logo=php)](https://www.php.net) & [![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?logo=mysql)](https://www.mysql.com) animated with [![JQuery](https://img.shields.io/badge/-JQuery-red?logo=jquery)](https://jquery.com), and now discovering the ⚡power⚡ of [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript).
 
 ## 💻 Stacks I'm familiar with:
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)](https://www.php.net)
-[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-blue?style=flat-square&logo=visualstudio)](https://code.visualstudio.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com)
-[![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)](https://www.postman.com)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com)
-[![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)](https://www.mysql.com)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Php](https://img.shields.io/badge/-Php-lightgrey?logo=php)](https://www.php.net)
+[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-blue?logo=visualstudio)](https://code.visualstudio.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com)
+[![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)](https://www.postman.com)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)](https://www.mongodb.com)
+[![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?logo=mysql)](https://www.mysql.com)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)](https://nodejs.org)
 [![npm](https://img.shields.io/npm/v/npm.svg?logo=npm)](https://www.npmjs.com)
-[![JQuery](https://img.shields.io/badge/-JQuery-red?style=flat-square&logo=jquery)](https://jquery.com)
-[![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)](https://reactjs.org)
-[![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js)](https://vuejs.org)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![CSS3](https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass)](https://sass-lang.com)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com)
+[![JQuery](https://img.shields.io/badge/-JQuery-red?logo=jquery)](https://jquery.com)
+[![React](https://img.shields.io/badge/-React-blue?logo=react)](https://reactjs.org)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-green?logo=vue.js)](https://vuejs.org)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![CSS3](https://img.shields.io/badge/-SASS-pink?logo=sass)](https://sass-lang.com)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](https://getbootstrap.com)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku)](https://heroku.com)
 
 ## 📫 You can find me at: 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail)](https://www.linkedin.com/in/antoinebollinger)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](https://www.linkedin.com/in/antoinebollinger)
 
 ## 🏆 Stats
 
