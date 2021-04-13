@@ -4,23 +4,17 @@ I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
 I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/css-3.svg">, then <img height="25" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡power⚡ of <img height="25" src="https://cdn.svgporn.com/logos/javascript.svg">.
 
-## 📫 You can find me at: 
-
-[<code><img height="30" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></code>](https://www.linkedin.com/in/antoinebollinger)
-[<code><img height="30" src="https://cdn.svgporn.com/logos/google-gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
-
-
 ## 💻 Stacks I'm familiar with:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)](https://www.php.net) - 
+[![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)](https://www.php.net)
 [![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-blue?style=flat-square&logo=visualstudio)](https://code.visualstudio.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com)
-[![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)](https://www.postman.com) - 
+[![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)](https://www.postman.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)](https://www.mongodb.com)
-[![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)](https://www.mysql.com) - 
+[![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)](https://www.mysql.com)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org)
-[![npm](https://img.shields.io/npm/v/npm.svg?logo=npm)](https://www.npmjs.com) - 
+[![npm](https://img.shields.io/npm/v/npm.svg?logo=npm)](https://www.npmjs.com)
 [![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)](https://reactjs.org)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js)](https://vuejs.org)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -28,6 +22,17 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 [![CSS3](https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass)](https://sass-lang.com)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)](https://heroku.com)
+
+## 📫 You can find me at: 
+
+[<code><img height="30" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></code>](https://www.linkedin.com/in/antoinebollinger)
+[<code><img height="30" src="https://cdn.svgporn.com/logos/google-gmail.svg"></code>](mailto:antoine.bollinger@gmail.com)
+
+## 🏆 Stats
+
+![](https://komarev.com/ghpvc/?username=antoinebollinger&color=yellow) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Followers&logo=Github)](https://github.com/antoinebollinger)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true) ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&hide_title=true&hide_border=true&show_icons=true)
 
 <!--
 ### Databases
@@ -57,9 +62,3 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 [<code><img height="30" src="https://cdn.svgporn.com/logos/postman.svg"></code>](https://www.postman.com/)
 [<code><img height="30" src="https://cdn.svgporn.com/logos/github-icon.svg"></code>](https://github.com/)
 -->
-
-## 🏆 Stats
-
-![](https://komarev.com/ghpvc/?username=antoinebollinger&color=yellow) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Followers&logo=Github)](https://github.com/antoinebollinger)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true) ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&hide_title=true&hide_border=true&show_icons=true)
