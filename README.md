@@ -2,7 +2,7 @@
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
-I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/css-3.svg">, then <img height="25" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡power⚡ of <img height="25" src="https://cdn.svgporn.com/logos/javascript.svg">.
+I started with [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) & [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS), then <img height="25" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡power⚡ of <img height="25" src="https://cdn.svgporn.com/logos/javascript.svg">.
 
 ## 💻 Stacks I'm familiar with:
 
