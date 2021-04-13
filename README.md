@@ -12,7 +12,7 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 
 # 🎓 Stacks I'm familiar with:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 ![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
@@ -25,8 +25,6 @@ I started with <img height="25" src="https://cdn.svgporn.com/logos/html-5.svg"> 
 ![CSS3](https://img.shields.io/badge/-SASS-pink?style=flat-square&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-
-![<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku">](https://www.heroku.com)
 
 <!--
 ### Databases
