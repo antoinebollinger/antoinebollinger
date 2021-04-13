@@ -2,7 +2,7 @@
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
-I started with [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) & [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS), then <img height="25" src="https://cdn.svgporn.com/logos/php.svg"> & <img height="25" src="https://cdn.svgporn.com/logos/mysql.svg">, and now discovering the ⚡power⚡ of <img height="25" src="https://cdn.svgporn.com/logos/javascript.svg">.
+I started with [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) & [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS), then [![Php](https://img.shields.io/badge/-Php-lightgrey?style=flat-square&logo=php)](https://www.php.net) & [![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=flat-square&logo=mysql)](https://www.mysql.com) animated with [![JQuery](https://img.shields.io/badge/-JQuery-red?style=flat-square&logo=jquery)](https://jquery.com), and now discovering the ⚡power⚡ of [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript).
 
 ## 💻 Stacks I'm familiar with:
 
