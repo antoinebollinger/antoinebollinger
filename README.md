@@ -2,7 +2,7 @@
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
-I started with [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) & [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS), then [![Php](https://img.shields.io/badge/-Php-blue?logo=php)](https://www.php.net) & [![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql)](https://www.mysql.com) animated with [![JQuery](https://img.shields.io/badge/-JQuery-blue?logo=jquery)](https://jquery.com), and now discovering the ⚡power⚡ of [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript).
+I started with a simple website with Html & Css, then a more complexe site with Php & Mysql, and now discovering the ⚡power⚡ of Javascript (with Node.js, Vue.js and React).
 
 I currently have a job that I like but in which I do not code enough for my liking. Therefore, I would like to use my development skills to support associations in my spare time. This would mean: the possibility for me to use and enrich my skills, and the opportunity for an association to have a partner able to create a website, for example.
 
