@@ -13,7 +13,7 @@ So if you are or know:
 Contact-me 📫 :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
 [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
-![Discord](https://img.shields.io/badge/-AntoineBo#9898-black?logo=discord)
+![Discord](https://img.shields.io/badge/-AntoineBo%239898-black?logo=discord)
 
 ## 💻 Stacks I'm familiar with:
 
