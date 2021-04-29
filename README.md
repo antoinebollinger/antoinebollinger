@@ -2,13 +2,13 @@
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
-I started with a simple website with Html & Css, then a more complexe site with Php & Mysql, and now discovering the ⚡power⚡ of Javascript (with Node.js, Vue.js and React).
+I started with a simple website with **Html** & **Css**, then a more complexe site with **Php** & **Mysql**, and now discovering the ⚡power⚡ of **Javascript** (with **Node.js**, **Vue.js** and **React**).
 
-I currently have a job that I like but in which I do not code enough for my liking. Therefore, I would like to use my development skills to support associations in my spare time. This would mean: the possibility for me to use and enrich my skills, and the opportunity for an association to have a partner able to create a website, for example.
+I currently have a job that I like but in which I do not code enough for my liking. Therefore, I would like to use my development skills to support associations in my spare time, as volunteer. This would mean: the possibility for me to use and enrich my skills, and the opportunity for an association to have a partner able to create a website, for example.
 
 So if you are or know: 
 
-✔️ a non-profit organization that need help developping a website
+✔️ a **non-profit organization** that need help developping a website
 
 Contact-me 📫 :
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
