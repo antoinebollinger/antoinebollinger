@@ -15,7 +15,7 @@ Contact-me 📫 :
 [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
 ![Discord](https://img.shields.io/badge/-AntoineBo%239898-black?logo=discord)
 
-You can talk to me in 🇫🇷:, 🇧🇷 or 🇬🇧:󠁧󠁢󠁥󠁮󠁧󠁿!󠁧󠁢󠁥󠁮󠁧󠁿
+You can talk to me in ![FR](https://user-images.githubusercontent.com/56133015/116657712-2ae4fe80-a98f-11eb-90c4-1896a5cd2fdc.png), ![BR](https://user-images.githubusercontent.com/56133015/116657715-2c162b80-a98f-11eb-8b45-3d3c98c46d32.png) or ![SH](https://user-images.githubusercontent.com/56133015/116657713-2b7d9500-a98f-11eb-86c8-33401a0fef58.png)!
 
 ## 💻 Stacks I'm familiar with:
 
