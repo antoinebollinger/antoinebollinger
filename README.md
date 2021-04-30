@@ -15,6 +15,8 @@ Contact-me 📫 :
 [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
 ![Discord](https://img.shields.io/badge/-AntoineBo%239898-black?logo=discord)
 
+You can talk to me in 🇫🇷, 🇧🇷 or 🏴󠁧󠁢󠁥󠁮󠁧󠁿!󠁧󠁢󠁥󠁮󠁧󠁿
+
 ## 💻 Stacks I'm familiar with:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
