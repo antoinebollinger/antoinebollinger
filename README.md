@@ -15,7 +15,7 @@ Contact-me 📫 :
 [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
 ![Discord](https://img.shields.io/badge/-AntoineBo%239898-black?logo=discord)
 
-You can talk to me in :france:, :brazil: or :uk:󠁧󠁢󠁥󠁮󠁧󠁿!󠁧󠁢󠁥󠁮󠁧󠁿
+You can talk to me in :fr:, :brazil: or :uk:󠁧󠁢󠁥󠁮󠁧󠁿!󠁧󠁢󠁥󠁮󠁧󠁿
 
 ## 💻 Stacks I'm familiar with:
 
