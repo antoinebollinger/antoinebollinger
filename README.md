@@ -4,10 +4,10 @@ I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
 I started with a simple website with **Html** & **Css**, then a more complexe site with **Php** & **Mysql**, and now discovering the ⚡power⚡ of **Javascript** (with **Node.js**, **Vue.js** and **React**).
 
-📫 Contact-me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
-![Discord](https://img.shields.io/badge/-AntoineBo%239898-black?logo=discord)
+📫 Contact-me: 
+- [x] [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
+- [x] [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
+- [x] ![Discord](https://img.shields.io/badge/-AntoineBo%239898-black?logo=discord)
 
 You can talk to me in:
 ![FR_20](https://user-images.githubusercontent.com/56133015/116658351-1a815380-a990-11eb-9ee6-d8ac3eafe36a.jpg)
