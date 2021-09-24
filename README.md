@@ -26,12 +26,6 @@ You can talk to me in:
 - [x] [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)](https://github.com)
 - [x] [![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)](https://www.postman.com)
 
-
-
-
-
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku)](https://heroku.com)
-
 ## 🏆 Stats
 
 ![](https://komarev.com/ghpvc/?username=antoinebollinger&color=yellow) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Followers&logo=Github)](https://github.com/antoinebollinger)
