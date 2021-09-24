@@ -24,4 +24,6 @@ You can talk to me in:
 
 | Top languages | Github Stats |
 | --- | --- |
-| ![](https://komarev.com/ghpvc/?username=antoinebollinger&color=yellow) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Followers&logo=Github)](https://github.com/antoinebollinger) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true) ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&hide_title=true&hide_border=true&show_icons=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoinebollinger&show_icons=true&include_all_commits=true&layout=compact&hide_title=true&hide_border=true) | ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoinebollinger&hide_title=true&hide_border=true&show_icons=true) |
+
+![](https://komarev.com/ghpvc/?username=antoinebollinger&color=yellow) [![Github](https://img.shields.io/github/followers/antoinebollinger?label=Followers&logo=Github)](https://github.com/antoinebollinger)
