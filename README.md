@@ -10,9 +10,9 @@ I started with a simple website with **Html** & **Css**, then a more complexe si
 - [x] ![Discord](https://img.shields.io/badge/-AntoineBo%239898-black?logo=discord)
 
 You can talk to me in:
-![FR_20](https://user-images.githubusercontent.com/56133015/116658351-1a815380-a990-11eb-9ee6-d8ac3eafe36a.jpg)
-![GB_20](https://user-images.githubusercontent.com/56133015/116658353-1b19ea00-a990-11eb-92af-9e38a7880e15.jpg)
-![BR_20](https://user-images.githubusercontent.com/56133015/116658354-1b19ea00-a990-11eb-9327-f47cee7acb6f.jpg)
+![FR_20](img/fr.jpg)
+![GB_20](img/en.jpg)
+![BR_20](img/br.jpg)
 
 ## 💻 Stacks I'm familiar with:
 
