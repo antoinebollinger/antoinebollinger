@@ -18,10 +18,8 @@ You can talk to me in:
 
 | Langages | Databases | Back-end |Front-end |
 | --- | --- | --- | --- |
-| 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Php](https://img.shields.io/badge/-Php-blue?logo=php)](https://www.php.net)
-| 
+| [![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Php](https://img.shields.io/badge/-Php-blue?logo=php)](https://www.php.net) | 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)](https://www.mongodb.com)
 [![MySQL](https://img.shields.io/badge/-MySQL-orange?logo=mysql)](https://www.mysql.com)
 | 
