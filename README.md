@@ -2,8 +2,6 @@
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
-I started with a simple website with **Html** & **Css**, then a more complexe site with **Php** & **Mysql**, and now discovering the ⚡power⚡ of **Javascript** (with **Node.js**, **Vue.js** and **React**).
-
 📫 Contact-me: 
 - [x] [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
 - [x] [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
