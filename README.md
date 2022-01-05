@@ -1,6 +1,7 @@
 # Hello / Salut / Oi <img height="25" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
+
 After a intense learning of JS and it's main frameworks (Vue & React), I'm currently improving my PHP skill and learning Laravel!
 
 📫 Contact-me: 
@@ -8,9 +9,9 @@ After a intense learning of JS and it's main frameworks (Vue & React), I'm curre
 - [x] [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
 - [x] ![Discord](https://img.shields.io/badge/-AntoineBo%239898-black?logo=discord)
 
-You can talk to me in:
-![FR_20](img/fr.jpg)
-![GB_20](img/en.jpg)
+You can talk to me in 
+![FR_20](img/fr.jpg) , 
+![GB_20](img/en.jpg) or 
 ![BR_20](img/br.jpg)
 
 ## 💻 Stacks I'm familiar with:
