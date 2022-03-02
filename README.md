@@ -2,8 +2,6 @@
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
-After a intense learning of JS and it's main frameworks (Vue & React), I'm currently improving my PHP skill and learning Laravel!
-
 📫 Contact-me: 
 - [x] [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
 - [x] [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
