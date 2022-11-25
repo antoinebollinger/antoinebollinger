@@ -2,6 +2,8 @@
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
+You can take a look to my project on this profile, I also publish some starting kit on [my organisation](https://github.com/Antoine-Bollinger).
+
 📫 Contact-me: 
 - [x] [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
 - [x] [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
