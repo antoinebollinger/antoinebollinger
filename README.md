@@ -2,7 +2,7 @@
 
 I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 
-You can take a look to my project on this profile, I also publish some starting kit on [my organisation](https://github.com/a-bollinger).
+You can take a look to my project on this profile, I also publish some starting kit on [my organisation](https://github.com/Antoine-Bollinger).
 
 🚧 See my work at:
 - [x] [antoinebollinger.fr](https://antoinebollinger.fr), my website as web developper
