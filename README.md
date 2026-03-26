@@ -5,8 +5,8 @@ I'm [Antoine](https://antoinebollinger.github.io/), I 💙 codes and languages.
 You can take a look to my project on this profile, I also publish some starting kit on [my organisation](https://github.com/Antoine-Bollinger).
 
 🚧 See my work at:
-- [x] [antoinebollinger.fr](https://antoinebollinger.fr), my website as web developper
-- [x] [abollinger.fr/](https://abollinger.fr/), on which you can find some of my projects
+- [x] [antoinebollinger.partez.net](https://antoinebollinger.partez.net), my website as web developper
+- [x] [abollinger.partez.net](https://abollinger.partez.net), on which you can find some of my projects
  
 📫 Contact-me: 
 - [x] [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
